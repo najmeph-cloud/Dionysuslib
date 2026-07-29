@@ -1,1 +1,32 @@
+body {
+margin: 0;
+background: #0f0f12;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+text-align: center;
+}
+
+h1 {
+font-size: 70px;
+letter-spacing: 6px;
+margin-bottom: 10px;
+color: #ff4db8;
+}
+
+h2 {
+font-weight: 300;
+letter-spacing: 5px;
+font-size: 22px;
+color: #ddd;
+}
+
+p {
+margin-top: 40px;
+color: #888;
+font-size: 18px;
+}
 
